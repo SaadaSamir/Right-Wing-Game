@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1638912824 source:c:\users\user\onedrive\bureau\projets de code blockds\right pattern\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	"jeu.h"
+
+1638912771 source:c:\users\user\onedrive\bureau\projets de code blockds\right pattern\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1638912028 c:\users\user\onedrive\bureau\projets de code blockds\right pattern\jeu.h
+
+1640572703 source:c:\users\asus\desktop\right pattern-20211210t125924z-001\right pattern\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1641818626 source:c:\users\asus\desktop\right pattern-20211210t125924z-001\right pattern\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	"jeu.h"
+
+1640572610 c:\users\asus\desktop\right pattern-20211210t125924z-001\right pattern\jeu.h
+
