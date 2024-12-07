@@ -12,8 +12,7 @@ A puzzle game developed in C using the SDL library where players fill a grid wit
 4. [Game Modes](#4-game-modes)
 5. [Installation](#5-installation)
 6. [Technical Details](#6-technical-details)
-7. [Screenshots](#7-screenshots)
-8. [References](#8-references)
+7. [References](#7-references)
 
 ---
 
@@ -126,17 +125,7 @@ make
 
 ---
 
-## 7. Screenshots
-
-[Add screenshots of:
-- Main menu
-- Gameplay
-- Different game modes
-- Victory screen]
-
----
-
-## 8. References
+## 7. References
 
 - [SDL Documentation](https://wiki.libsdl.org/)
 - [SDL Animation Tutorial](http://sdz.tdct.org/sdz/les-animations-optimisees-avec-sdl.html)
