@@ -6,14 +6,14 @@ A puzzle game developed in C using the SDL library where players fill a grid wit
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [Features](#features)
-3. [How to Play](#how-to-play)
-4. [Game Modes](#game-modes)
-5. [Installation](#installation)
-6. [Technical Details](#technical-details)
-7. [Screenshots](#screenshots)
-8. [References](#references)
+1. [Introduction](#1-introduction)
+2. [Features](#2-features)
+3. [How to Play](#3-how-to-play)
+4. [Game Modes](#4-game-modes)
+5. [Installation](#5-installation)
+6. [Technical Details](#6-technical-details)
+7. [Screenshots](#7-screenshots)
+8. [References](#8-references)
 
 ---
 
