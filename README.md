@@ -121,7 +121,7 @@ make
 - Written in C
 - Uses SDL2 for graphics rendering
 - Matrix-based game logic
-- AI implementation using [specific algorithm]
+- AI implementation
 - Save system using file I/O
 
 ---
